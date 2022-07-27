@@ -24,6 +24,7 @@ int main()
         }
         
         cout<<sum<<"\n";
+        cout<<'f'<<'s'<<'t';
         
     }
 	return 0;
